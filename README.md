@@ -1,14 +1,7 @@
 # WebScraper
 
 [![Release](https://img.shields.io/github/v/release/Apuravaanand/WebScraper?label=Latest%20Release)](https://github.com/Apuravaanand/WebScraper/releases/latest)
-[![License](https://img.shields.io/github/license/Apuravaanand/WebScraper)](LICENSE)
-
----
-
-## 📌 Overview
-
-**WebScraper** is a lightweight GUI-based tool for scraping web data quickly and efficiently.  
-This tool allows users to extract structured information from websites without writing a single line of code.
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Apuravaanand.WebScraper)](https://github.com/Apuravaanand/WebScraper)
 
 ---
 
@@ -21,58 +14,31 @@ Download the latest version here:
 
 ## 🛠️ Features
 
-- Intuitive Graphical User Interface (GUI)
-- Extract data from multiple web pages
-- Export results in CSV or JSON format
+- Easy-to-use GUI
+- Scrape data from multiple web pages
+- Export results as CSV or JSON
 - Lightweight and fast
-- Easy to use for beginners and professionals
-
----
-
-## 🖥️ Screenshots
-
-![Screenshot1](path/to/screenshot1.png)
-![Screenshot2](path/to/screenshot2.png)
 
 ---
 
 ## 💡 How to Use
 
-1. Download the latest `.exe` file from the release section.
-2. Open `WebScraper.exe`.
-3. Enter the URL(s) you want to scrape.
-4. Click **Start** to begin scraping.
-5. Export the data in your preferred format.
+1. Download `WebScraper.exe`.
+2. Open the application.
+3. Enter the URL to scrape.
+4. Click **Start**.
+5. Export your data.
 
 ---
 
-## 📊 Traffic / Visitor Insights
+## 📊 Visitor Dashboard
 
-GitHub provides repository traffic insights:
-
-- Navigate to **Insights > Traffic** in your repository to view:
-  - **Unique visitors**
-  - **Page views**
-  - **Clones**
-
-> ⚠️ Note: Direct tracking of `.exe` downloads is not available on GitHub. For download analytics, consider using a link shortener or analytics-enabled hosting.
-
----
-
-## 📚 References / Resources
-
-- [GitHub Docs: Traffic Insights](https://docs.github.com/en/repositories/viewing-activity-logs-for-your-repository/viewing-traffic-to-a-repository)
-- [Python Web Scraping Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)
+The badge above shows how many people have visited this repository.  
+You can check the **GitHub Traffic Insights** as well:  
+`Insights → Traffic` to see page views, clones, and unique visitors.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## ⭐ Support
-
-If you like this project, please ⭐ star the repository and share your feedback.
-
+MIT License. See the [LICENSE](LICENSE) file.
