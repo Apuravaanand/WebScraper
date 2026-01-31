@@ -1,1 +1,1 @@
-Get the App [Download .exe](https://github.com/Apuravaanand/WebScraper/releases/latest/download/gui.exe)
+Get the App :  [WebScraper.exe](https://github.com/Apuravaanand/WebScraper/releases/latest/download/gui.exe)
