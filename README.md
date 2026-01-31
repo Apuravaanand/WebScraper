@@ -1,88 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>WebScraper Dashboard</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-    }
-    .container {
-      background: #fff;
-      padding: 30px;
-      border-radius: 10px;
-      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-      max-width: 500px;
-      text-align: center;
-    }
-    h1 {
-      margin-bottom: 20px;
-    }
-    .badge {
-      margin: 10px 0;
-    }
-    a.button {
-      display: inline-block;
-      margin: 15px 0;
-      padding: 10px 20px;
-      background: #007bff;
-      color: white;
-      border-radius: 5px;
-      text-decoration: none;
-    }
-    a.button:hover {
-      background: #0056b3;
-    }
-    .features {
-      text-align: left;
-      margin-top: 20px;
-    }
-    .features li {
-      margin: 8px 0;
-    }
-    hr {
-      margin: 25px 0;
-      border: none;
-      border-top: 1px solid #ccc;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>WebScraper Dashboard</h1>
+# 🖥️ WebScraper Dashboard
 
-    <!-- Visitor counter badge -->
-    <div class="badge">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=Apuravaanand.WebScraper" alt="Visitor Count">
-    </div>
+[![Release](https://img.shields.io/github/v/release/Apuravaanand/WebScraper?label=Latest%20Release)](https://github.com/Apuravaanand/WebScraper/releases/latest)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Apuravaanand.WebScraper)](https://github.com/Apuravaanand/WebScraper)
 
-    <hr>
+---
 
-    <!-- Get the App Section -->
-    <h2>🚀 Get the App</h2>
-    <a class="button" href="https://github.com/Apuravaanand/WebScraper/releases/latest/download/gui.exe" target="_blank">
-      Download WebScraper.exe
-    </a>
+## 🚀 Get the App
 
-    <hr>
+Download the latest version here:  
+[**WebScraper.exe**](https://github.com/Apuravaanand/WebScraper/releases/latest/download/gui.exe)
 
-    <!-- Features Section -->
-    <h2>🛠️ Features</h2>
-    <ul class="features">
-      <li>Easy-to-use GUI</li>
-      <li>Scrape data from multiple web pages</li>
-      <li>Export results as CSV or JSON</li>
-      <li>Lightweight and fast</li>
-    </ul>
-  </div>
-</body>
-</html>
+---
 
+## 🛠️ Features
+
+- ✅ Easy-to-use GUI  
+- ✅ Scrape data from multiple web pages  
+- ✅ Export results as CSV or JSON  
+- ✅ Lightweight and fast  
+
+---
+
+## 📊 Dashboard
+
+| Metric | Count |
+|--------|-------|
+| 👁️ Visitors | ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Apuravaanand.WebScraper) |
+| 📦 Latest Release | [Download](https://github.com/Apuravaanand/WebScraper/releases/latest/download/gui.exe) |
+
+---
+
+## 🔹 How to Use
+
+1. Download **WebScraper.exe** from above.  
+2. Open the app.  
+3. Enter the URL(s) you want to scrape.  
+4. Click **Start**.  
+5. Export results in CSV or JSON.
+
+---
+
+## 📄 License
+
+MIT License. See [LICENSE](LICENSE).
