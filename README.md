@@ -2,23 +2,17 @@
 
 [![Release](https://img.shields.io/github/v/release/Apuravaanand/WebScraper?label=Latest%20Release)](https://github.com/Apuravaanand/WebScraper/releases/latest)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Apuravaanand.WebScraper)](https://github.com/Apuravaanand/WebScraper)
-
 ---
-
 ## 🚀 Get the App
 
 Download the latest version here:  
 [**WebScraper.exe**](https://github.com/Apuravaanand/WebScraper/releases/latest/download/gui.exe)
-
 ---
-
 ## 🛠️ Features
-
 - ✅ Easy-to-use GUI  
 - ✅ Scrape data from multiple web pages  
 - ✅ Export results as CSV or JSON  
 - ✅ Lightweight and fast  
-
 ---
 
 ## 📊 Dashboard
